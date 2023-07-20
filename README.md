@@ -6,7 +6,7 @@ Check out some of my projects:
 1. Monteur Nimbus
 2. Monteur Slate PRO
 3. Monteur Thunder
-4. DigitNest Accounting Services Website
+4. DigitNest Accounting Services Website (private repo)
 
 Some projects and technology used behind it:
 #### Monteur Nimbus
